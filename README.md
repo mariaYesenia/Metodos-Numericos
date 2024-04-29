@@ -1,6 +1,7 @@
 ## Tema 4 Metodo del trapecio
 
 ### ¿Que es la regla del trapezoide?
+En matemáticas, la regla del trapecio, también conocida como regla del trapezoide o regla del trapecio, es una técnica para aproximar la integral definida en análisis numérico. La regla trapezoidal es una regla de integración que se utiliza para calcular el área bajo una curva dividiendo la curva en pequeños trapecios. La suma de todas las áreas de los trapecios pequeños dará el área bajo la curva. 
 
 La regla del trapecio se aplica para resolver la integral definida de la forma b ∫ a f(x) dx, aproximando la región bajo la gráfica de la función f(x) como un trapezoide y calculando su área. Según la regla del trapecio, evaluamos el área bajo una curva dividiendo el área total en pequeños trapecios en lugar de rectángulos.
 
@@ -18,3 +19,4 @@ Paso 1: Anote el número de subintervalos, "n" y los intervalos "a" y "b".
 Paso 2: Aplique la fórmula para calcular el ancho del subintervalo, h (o) △x = (b - a)/n.
 
 Paso 3: Sustituya los valores obtenidos en la fórmula de la regla trapezoidal para encontrar el área aproximada de la curva.
+
