@@ -5,7 +5,7 @@
 La regla del trapecio se aplica para resolver la integral definida de la forma b ∫ a f(x) dx, aproximando la región bajo la gráfica de la función f(x) como un trapezoide y calculando su área. Según la regla del trapecio, evaluamos el área bajo una curva dividiendo el área total en pequeños trapecios en lugar de rectángulos.
 
 ### Formula 
-![](https://almedinablog.wordpress.com/la-regla-del-trapecio/)
+![Formula de la regla del trapezio ](https://almedinablog.wordpress.com/la-regla-del-trapecio/)
 
 ### ¿Como Aplicar la regla del trapezoide?
 
